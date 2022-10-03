@@ -1,0 +1,12 @@
+C:\Users\bilet\source\repos\.Net Core\Lab1\ATM\ATMLib\bin\Debug\net6.0\ATMLib.deps.json
+C:\Users\bilet\source\repos\.Net Core\Lab1\ATM\ATMLib\bin\Debug\net6.0\ATMLib.dll
+C:\Users\bilet\source\repos\.Net Core\Lab1\ATM\ATMLib\bin\Debug\net6.0\ATMLib.pdb
+C:\Users\bilet\source\repos\.Net Core\Lab1\ATM\ATMLib\obj\Debug\net6.0\ATMLib.csproj.AssemblyReference.cache
+C:\Users\bilet\source\repos\.Net Core\Lab1\ATM\ATMLib\obj\Debug\net6.0\ATMLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilet\source\repos\.Net Core\Lab1\ATM\ATMLib\obj\Debug\net6.0\ATMLib.AssemblyInfoInputs.cache
+C:\Users\bilet\source\repos\.Net Core\Lab1\ATM\ATMLib\obj\Debug\net6.0\ATMLib.AssemblyInfo.cs
+C:\Users\bilet\source\repos\.Net Core\Lab1\ATM\ATMLib\obj\Debug\net6.0\ATMLib.csproj.CoreCompileInputs.cache
+C:\Users\bilet\source\repos\.Net Core\Lab1\ATM\ATMLib\obj\Debug\net6.0\ATMLib.dll
+C:\Users\bilet\source\repos\.Net Core\Lab1\ATM\ATMLib\obj\Debug\net6.0\refint\ATMLib.dll
+C:\Users\bilet\source\repos\.Net Core\Lab1\ATM\ATMLib\obj\Debug\net6.0\ATMLib.pdb
+C:\Users\bilet\source\repos\.Net Core\Lab1\ATM\ATMLib\obj\Debug\net6.0\ref\ATMLib.dll
